@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**tatanpoker09/tatanpoker09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Christian Eilers, also known as tatanpoker09. I'm a Software Engineer from Pontificia Universidad Catolica de Chile. I'm passionate of trying out new programming paradigms and experimenting with different things.
 
-Here are some ideas to get you started:
+- 😳 Programming languages I know
+  - Java
+  - C#
+  - Javascript / Typescript
+  - Ruby
+  - C/C++
+  - Kotlin
+  - Python
+  - PHP
+
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+  - My own modularized and extensible personal assistant: [Journey](https://github.com/tatanpoker09/Journey)
+- 🌱 I’m currently learning ... 
+  - Natural Language Processing and custom addon deployment/integration.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+  - Fun IoT projects!
 - 💬 Ask me about ...
+  - Anything! I love to help 💘
 - 📫 How to reach me: ...
+  - Twitter Direct Message: [Twitter](https://twitter.com/tatanpoker09)
+  - Email: christian@eilers.cl
 - 😄 Pronouns: ...
+  - He/him
 - ⚡ Fun fact: ...
--->
+  - I love Nature, Geography, Anime, Videogames, Astrophysics and Streaming!
+
+
+### Hi there 👋
