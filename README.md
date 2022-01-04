@@ -28,6 +28,3 @@ I'm Christian Eilers, also known as tatanpoker09. I'm a Software Engineer from P
   - He/him
 - ⚡ Fun fact: ...
   - I love Nature, Geography, Anime, Videogames, Astrophysics and Streaming!
-
-
-### Hi there 👋
