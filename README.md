@@ -6,6 +6,7 @@ I'm Christian Eilers, also known as tatanpoker09. I'm a Software Engineer from P
   - Java
   - C#
   - Javascript / Typescript
+  - GoLang
   - Ruby
   - C/C++
   - Kotlin
@@ -14,9 +15,9 @@ I'm Christian Eilers, also known as tatanpoker09. I'm a Software Engineer from P
 
 
 - 🔭 I’m currently working on ...
-  - Building voice-powered chatbots @ Chatlayer.ai by Sinch (https://chatlayer.ai/)
+  - Journey! My open-source modular personal assistant.
 - 🌱 I’m currently learning ... 
-  - GoLang and GCP voice integrations
+  - As much as possible! I am a Carnegie Mellon University Master in Software Engineering student
 - 👫 I’m looking to collaborate on ...
   - Fun IoT projects!
 - 💬 Ask me about ...
