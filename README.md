@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Christian Eilers, also known as tatanpoker09. I'm a Software Engineer from Carnegie Mellon University. I'm passionate of trying out new programming paradigms and experimenting with different things.
+I'm Christian Eilers, also known as tatanpoker09. I'm a Software Engineer from Carnegie Mellon University. I'm passionate of trying out new programming paradigms and experimenting with different things. Check out my portfolio! https://tatanpoker09.com/
 
 - 😳 Programming languages I know
   - Java
