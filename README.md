@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Christian Eilers, also known as tatanpoker09. I'm a Software Engineer working at Nutanix. Previously attended CMU and PUC Chile. I'm passionate of trying out new programming paradigms and experimenting with different things. Check out my portfolio! https://tatanpoker09.com/
+I'm Christian Eilers, also known as tatanpoker09. I'm a Software Engineer working at X. Previously attended CMU and PUC Chile. I'm passionate of trying out new programming paradigms and experimenting with different things. Check out my portfolio! https://tatanpoker09.com/
 
 - 😳 Programming languages I know
   - Java
